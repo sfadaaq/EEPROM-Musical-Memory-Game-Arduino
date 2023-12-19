@@ -21,7 +21,7 @@ Note: the game can be upgraded to speed up the sequence speed with each round to
 
 1x piezo (buzzer)
 
-1x LED (16x2)
+1x LCD display screen (16x2)
 
 1x 10K-ohm potentiometer
 
