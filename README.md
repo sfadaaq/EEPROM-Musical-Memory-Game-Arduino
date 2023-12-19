@@ -11,9 +11,9 @@ Note: the game can be upgraded to speed up the sequence speed with each round to
 
 1x Arduino Uno
 
-4x 10K-ohm resistors
+5x 10K-ohm resistors
 
-5x 220-ohm resistors
+4x 220-ohm resistors
 
 4x LEDs (yellow, red, green, and blue)
 
